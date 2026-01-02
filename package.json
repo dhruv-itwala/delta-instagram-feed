@@ -1,6 +1,6 @@
 {
-  "name": "delta-instagram-feed",
-  "version": "1.0.1",
+  "name": "@it-dhruv/delta-instagram-feed",
+  "version": "1.0.0",
   "description": "Plug-and-play Instagram Feed API with caching using Instagram Graph API",
   "type": "module",
   "main": "src/index.js",
