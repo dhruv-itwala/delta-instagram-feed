@@ -1,0 +1,29 @@
+{
+  "name": "delta-instagram-feed",
+  "version": "1.0.1",
+  "description": "Plug-and-play Instagram Feed API with caching using Instagram Graph API",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "instagram",
+    "instagram-feed",
+    "express",
+    "api",
+    "cache",
+    "delta"
+  ],
+  "author": "DHRUV ITWALA",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

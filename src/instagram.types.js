@@ -1,0 +1,4 @@
+export const INSTAGRAM_MEDIA_TYPES = {
+  IMAGE: "IMAGE",
+  CAROUSEL: "CAROUSEL_ALBUM",
+};
